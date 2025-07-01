@@ -4,7 +4,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>PacLogic - README</title>
+  <title>PacLogic</title>
 </head>
 <body>
 
