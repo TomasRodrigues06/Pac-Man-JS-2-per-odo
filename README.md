@@ -48,7 +48,8 @@
     <br>
     <strong>Nome(s):</strong> Tomás Brandão Rodrigues <br>
     <strong>Nome(s):</strong> Thiago Cunha <br> 
-    <strong>Nome(s):</strong> João Pedro Gomes
+    <strong>Nome(s):</strong> João Pedro Gomes <br>
+    <strong>Nome(s):</strong> Leonardo Granja
   </p>
 
   <h2>📚 Conceitos Envolvidos</h2>
