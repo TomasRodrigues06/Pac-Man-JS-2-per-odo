@@ -46,9 +46,9 @@
   <p>
     Projeto desenvolvido por alunos no 2º período de Sistemas de Informação.
     <br>
-    <strong>Nome(s):</strong> Tomás Brandão Rodrigues <br>
-    <strong>Nome(s):</strong> Thiago Cunha <br>
-    <strong>Nome(s):</strong> João Pedro Gomes
+    <a href=" "><strong>Nome(s):</strong> Tomás Brandão Rodrigues <br></a>
+    <a href=" "> <strong>Nome(s):</strong> Thiago Cunha <br> </a>
+    <a href=" "> <strong>Nome(s):</strong> João Pedro Gomes </a>
   </p>
 
   <h2>📚 Conceitos Envolvidos</h2>
